@@ -14,7 +14,7 @@ Homepage: [https://huggingface.co/datasets/linagora/TunisianMMLU](https://huggin
 ```
 @inproceedings{linagora2026LLM-tn,
       title={TunisianMMLU: Evaluating Large Language Models on Tunisian Arabic}, 
-      author={Wajdi Ghezaiel and Jean-Pierre Lorre},
+      author={Wajdi Ghezaiel and Jean-Pierre Lorré},
       year={2026},
 }
 ```
