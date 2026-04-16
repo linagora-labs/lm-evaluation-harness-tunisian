@@ -1,0 +1,7 @@
+"dataset_name": "public_relations"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_social_sciences_tasks"
+- "tunisianmmlu_mmlu_tasks"
+"task": "tunisianmmlu_public_relations"
+"task_alias": "public relations"

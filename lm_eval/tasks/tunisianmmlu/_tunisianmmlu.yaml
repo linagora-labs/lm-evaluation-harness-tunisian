@@ -1,0 +1,14 @@
+group: tunisianmmlu
+group_alias: TunisianMMLU
+task:
+- tunisianmmlu_other_tasks
+- tunisianmmlu_humanities_tasks
+- tunisianmmlu_language_tasks
+- tunisianmmlu_social_sciences_tasks
+- tunisianmmlu_stem_tasks
+
+aggregate_metric_list:
+  - metric: acc
+    weight_by_size: True
+metadata:
+  version: 0

@@ -1,0 +1,9 @@
+group: tunisianmmlu_mmlu
+group_alias: MMLU
+task:
+  - tunisianmmlu_mmlu_tasks
+aggregate_metric_list:
+  - metric: acc
+    weight_by_size: True
+metadata:
+  version: 0

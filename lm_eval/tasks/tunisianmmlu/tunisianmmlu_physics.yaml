@@ -1,0 +1,7 @@
+"dataset_name": "physics"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_stem_tasks"
+- "tunisianmmlu_ar_mmlu_tasks"
+"task": "tunisianmmlu_physics"
+"task_alias": "physics"

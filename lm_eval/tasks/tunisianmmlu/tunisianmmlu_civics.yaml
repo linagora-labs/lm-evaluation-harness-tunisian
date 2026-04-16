@@ -1,0 +1,7 @@
+"dataset_name": "civics"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_social_sciences_tasks"
+- "tunisianmmlu_ar_mmlu_tasks"
+"task": "tunisianmmlu_civics"
+"task_alias": "civics"

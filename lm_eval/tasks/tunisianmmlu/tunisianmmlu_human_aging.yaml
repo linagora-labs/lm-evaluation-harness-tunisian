@@ -1,0 +1,7 @@
+"dataset_name": "human_aging"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_other_tasks"
+- "tunisianmmlu_mmlu_tasks"
+"task": "tunisianmmlu_human_aging"
+"task_alias": "human aging"

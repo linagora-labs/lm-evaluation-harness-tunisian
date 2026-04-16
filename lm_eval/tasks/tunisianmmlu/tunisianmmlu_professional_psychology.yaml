@@ -1,0 +1,7 @@
+"dataset_name": "professional_psychology"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_social_sciences_tasks"
+- "tunisianmmlu_mmlu_tasks"
+"task": "tunisianmmlu_professional_psychology"
+"task_alias": "professional psychology"

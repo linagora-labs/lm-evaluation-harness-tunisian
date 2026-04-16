@@ -1,0 +1,7 @@
+"dataset_name": "logical_fallacies"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_humanities_tasks"
+- "tunisianmmlu_mmlu_tasks"
+"task": "tunisianmmlu_logical_fallacies"
+"task_alias": "logical fallacies"

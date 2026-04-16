@@ -1,0 +1,7 @@
+"dataset_name": "driving_test"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_other_tasks"
+- "tunisianmmlu_ar_mmlu_tasks"
+"task": "tunisianmmlu_driving_test"
+"task_alias": "driving test"

@@ -1,0 +1,7 @@
+"dataset_name": "high_school_geography"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_social_sciences_tasks"
+- "tunisianmmlu_mmlu_tasks"
+"task": "tunisianmmlu_high_school_geography"
+"task_alias": "high school geography"

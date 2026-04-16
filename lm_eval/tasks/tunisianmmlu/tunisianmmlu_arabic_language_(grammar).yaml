@@ -1,0 +1,7 @@
+"dataset_name": "arabic_language_(grammar)"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_language_tasks"
+- "tunisianmmlu_ar_mmlu_tasks"
+"task": "tunisianmmlu_arabic_language_(grammar)"
+"task_alias": "arabic language (grammar)"

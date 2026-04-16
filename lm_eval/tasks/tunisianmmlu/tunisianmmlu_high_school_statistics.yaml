@@ -1,0 +1,7 @@
+"dataset_name": "high_school_statistics"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_stem_tasks"
+- "tunisianmmlu_mmlu_tasks"
+"task": "tunisianmmlu_high_school_statistics"
+"task_alias": "high school statistics"

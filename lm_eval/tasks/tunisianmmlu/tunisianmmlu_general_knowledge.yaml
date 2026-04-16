@@ -1,0 +1,5 @@
+"dataset_name": "general_knowledge"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag": "tunisianmmlu_other_tasks"
+"task": "tunisianmmlu_general_knowledge"
+"task_alias": "general knowledge"

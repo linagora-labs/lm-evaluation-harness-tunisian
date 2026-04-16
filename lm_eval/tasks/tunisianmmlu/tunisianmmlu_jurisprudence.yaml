@@ -1,0 +1,7 @@
+"dataset_name": "jurisprudence"
+"include": "_default_tunisianmmlu_template_yaml"
+"tag":
+- "tunisianmmlu_humanities_tasks"
+- "tunisianmmlu_mmlu_tasks"
+"task": "tunisianmmlu_jurisprudence"
+"task_alias": "jurisprudence"
